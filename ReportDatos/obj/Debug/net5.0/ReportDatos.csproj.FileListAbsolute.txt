@@ -1,0 +1,12 @@
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\bin\Debug\net5.0\ReportDatos.deps.json
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\bin\Debug\net5.0\ReportDatos.dll
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\bin\Debug\net5.0\ReportDatos.pdb
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ReportDatos.csproj.AssemblyReference.cache
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ReportDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ReportDatos.AssemblyInfoInputs.cache
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ReportDatos.AssemblyInfo.cs
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ReportDatos.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ReportDatos.dll
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\refint\ReportDatos.dll
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ReportDatos.pdb
+D:\Nueva carpeta (4)\.NET\ReportRDLC\ReportDatos\obj\Debug\net5.0\ref\ReportDatos.dll
